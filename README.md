@@ -1,12 +1,12 @@
 ## 👋 Olá, sou **Jamil**
 
-Sou **desenvolvedor Back-End** apaixonado por tecnologia e inovação. Com 21 anos e mais de **3 anos de experiência**, dedico-me a criar soluções robustas e escaláveis, utilizando as melhores práticas e tecnologias modernas para o desenvolvimento de software.
+Sou **desenvolvedor Back-End** apaixonado por tecnologia e inovação. Tenho 21 anos e mais de **4 anos de experiência em Tecnologia da Informação**, dedico-me a criar soluções robustas e escaláveis, utilizando as melhores práticas e tecnologias modernas para o desenvolvimento de software.
 
 🎓 Atualmente, sou estudante de **Bacharelado em Sistemas de Informação** na **Universidade Federal de Santa Maria (UFSM)**, onde aprimoro minhas habilidades e exploro novos horizontes na área de tecnologia.
 
 💻 Meu foco é no desenvolvimento **Back-End**, com expertise em:
-- **Linguagens:** Java, Pascal (Delphi), JavaScript, Node.js, Python
-- **Bancos de Dados:** SQL Server, MySQL, Firebird
+- **Linguagens:** Python, Java, JavaScript, Node.js 
+- **Bancos de Dados:** SQL Server, MySQL, Firebird, PostgreSQL
 
 🌟 Estou sempre em busca de **desafios tecnológicos** e **projetos inovadores** que me permitam evoluir como profissional e contribuir para soluções impactantes.
 
