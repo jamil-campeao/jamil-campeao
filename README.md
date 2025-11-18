@@ -1,14 +1,10 @@
 ## 👋 Olá, sou **Jamil**
 
-Sou **desenvolvedor Back-End** apaixonado por tecnologia e inovação. Tenho 21 anos e mais de **4 anos de experiência em Tecnologia da Informação**, dedico-me a criar soluções robustas e escaláveis, utilizando as melhores práticas e tecnologias modernas para o desenvolvimento de software.
+Desenvolvedor Back-End com +4 anos de experiência na criação de soluções robustas e escaláveis. 🎓 Graduando em Sistemas de Informação na UFSM.
 
-🎓 Atualmente, sou estudante de **Bacharelado em Sistemas de Informação** na **Universidade Federal de Santa Maria (UFSM)**, onde aprimoro minhas habilidades e exploro novos horizontes na área de tecnologia.
+🛠 Core: Python, Java, Node.js 🗄 Dados: PostgreSQL, MySQL, SQL Server, Firebird
 
-💻 Meu foco é no desenvolvimento **Back-End**, com expertise em:
-- **Linguagens:** Python, Java, JavaScript, Node.js 
-- **Bancos de Dados:** SQL Server, MySQL, Firebird, PostgreSQL
-
-🌟 Estou sempre em busca de **desafios tecnológicos** e **projetos inovadores** que me permitam evoluir como profissional e contribuir para soluções impactantes.
+🚀 Apaixonado por arquitetura de software e sempre em busca do próximo desafio inovador.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamil-campeao&hide_progress=true)](https://github.com/jamil-campeao/github-readme-stats)
 
