@@ -1,8 +1,10 @@
 ## 👋 Olá, sou **Jamil**
 
-Desenvolvedor Back-End com +4 anos de experiência na criação de soluções robustas e escaláveis. 🎓 Graduando em Sistemas de Informação na UFSM.
+Desenvolvedor FullStack. 🎓 Graduando em Sistemas de Informação na UFSM.
 
-🛠 Core: Python, Java, Node.js 🗄 Dados: PostgreSQL, MySQL, SQL Server, Firebird
+🛠 Core: Python, React, Node.js
+🗄 Dados: PostgreSQL, MySQL, SQL Server, Firebird
+Infra: Docker, Kubernetes
 
 🚀 Apaixonado por arquitetura de software e sempre em busca do próximo desafio inovador.
 
