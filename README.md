@@ -3,7 +3,7 @@
 Desenvolvedor FullStack. 🎓 Graduando em Sistemas de Informação na UFSM.
 
 🛠 Core: Python, React, Node.js
-🗄 Dados: PostgreSQL, MySQL, SQL Server, Firebird
+🗄 Dados: PostgreSQL, MySQL, SQL Server
 Infra: Docker, Kubernetes
 
 <div style="display: inline_block"><br>
@@ -13,7 +13,7 @@ Infra: Docker, Kubernetes
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="MySQL" height="30" width="30" src="https://github.com/jamil-campeao/portfolio/blob/main/images/firebird.png" />
+  <img align="center" alt="Postgres" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
 
 ##
