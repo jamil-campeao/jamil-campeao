@@ -6,10 +6,6 @@ Desenvolvedor FullStack. 🎓 Graduando em Sistemas de Informação na UFSM.
 🗄 Dados: PostgreSQL, MySQL, SQL Server, Firebird
 Infra: Docker, Kubernetes
 
-🚀 Apaixonado por arquitetura de software e sempre em busca do próximo desafio inovador.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamil-campeao&hide_progress=true)](https://github.com/jamil-campeao/github-readme-stats)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
