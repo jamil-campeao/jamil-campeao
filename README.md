@@ -2,8 +2,8 @@
 
 Desenvolvedor FullStack. 🎓 Graduando em Sistemas de Informação na UFSM.
 
-🛠 Core: Python, React, Node.js
-🗄 Dados: PostgreSQL, MySQL, SQL Server
+🛠 Core: Python, React, Node.js <br>
+🗄 Dados: PostgreSQL, MySQL, SQL Server <br>
 Infra: Docker, Kubernetes
 
 <div style="display: inline_block"><br>
