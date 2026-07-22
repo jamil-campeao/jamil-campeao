@@ -1,9 +1,9 @@
 ## 👋 Olá, sou **Jamil**
 
 Desenvolvedor FullStack. <br>
-🎓 Graduando em Sistemas de Informação na UFSM.
+🎓 Formado em Sistemas de Informação na UFSM.
 
-🛠 Core: Python, React, Node.js <br>
+🛠 Core: Python, React, Node.js, C# <br>
 🗄 Dados: PostgreSQL, MySQL, SQL Server <br>
 Infra: Docker, Kubernetes
 
@@ -11,6 +11,7 @@ Infra: Docker, Kubernetes
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
