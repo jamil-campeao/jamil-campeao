@@ -2,6 +2,7 @@
 
 Desenvolvedor FullStack. <br>
 🎓 Formado em Sistemas de Informação na UFSM.
+🎓 Pós-Graduando em Arquitetura de Software Distribuído na PUC
 
 🛠 Core: Python, React, Node.js, C# <br>
 🗄 Dados: PostgreSQL, MySQL, SQL Server <br>
