@@ -1,7 +1,7 @@
 ## 👋 Olá, sou **Jamil**
 
 Desenvolvedor FullStack. <br>
-🎓 Formado em Sistemas de Informação na UFSM.
+🎓 Formado em Sistemas de Informação na UFSM <br>
 🎓 Pós-Graduando em Arquitetura de Software Distribuído na PUC
 
 🛠 Core: Python, React, Node.js, C# <br>
